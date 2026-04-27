@@ -48,11 +48,10 @@ Create a `.env` file in the root directory. **Note:** Do not use quotes around v
 
 ```bash
 LLM_PROVIDER=ollama_cloud
+
 OLLAMA_CLOUD_API_KEY=your_api_key_here
 OLLAMA_CLOUD_MODEL=qwen3-coder:480b-cloud
 OLLAMA_CLOUD_BASE_URL=https://ollama.com/v1
-
-MONGO_URL=mongodb://mongodb:27017/
 
 LANGSMITH_TRACING_V2=true
 LANGSMITH_API_KEY=your_langsmith_key
