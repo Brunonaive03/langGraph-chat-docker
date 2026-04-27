@@ -1,0 +1,2002 @@
+[
+  {
+    "name": "ABSORB",
+    "type": "GRS",
+    "ba": 20,
+    "ac": 100,
+    "pp": 25,
+    "category": "Special"
+  },
+  {
+    "name": "ACID",
+    "type": "PSN",
+    "ba": 40,
+    "ac": 100,
+    "pp": 30,
+    "category": "Physical"
+  },
+  {
+    "name": "ACID ARMOR",
+    "type": "PSN",
+    "ba": 0,
+    "ac": 100,
+    "pp": 20,
+    "category": "Status"
+  },
+  {
+    "name": "AEROBLAST",
+    "type": "FLY",
+    "ba": 100,
+    "ac": 95,
+    "pp": 5,
+    "category": "Physical"
+  },
+  {
+    "name": "AGILITY",
+    "type": "PSY",
+    "ba": 0,
+    "ac": 100,
+    "pp": 30,
+    "category": "Status"
+  },
+  {
+    "name": "AMNESIA",
+    "type": "PSY",
+    "ba": 0,
+    "ac": 100,
+    "pp": 20,
+    "category": "Status"
+  },
+  {
+    "name": "ANCIENT POWER",
+    "type": "RCK",
+    "ba": 60,
+    "ac": 100,
+    "pp": 5,
+    "category": "Physical"
+  },
+  {
+    "name": "ATTRACT",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 15,
+    "category": "Status"
+  },
+  {
+    "name": "AURORA BEAM",
+    "type": "ICE",
+    "ba": 65,
+    "ac": 100,
+    "pp": 20,
+    "category": "Special"
+  },
+  {
+    "name": "BARRAGE",
+    "type": "NRM",
+    "ba": 15,
+    "ac": 85,
+    "pp": 20,
+    "category": "Physical"
+  },
+  {
+    "name": "BARRIER",
+    "type": "PSY",
+    "ba": 0,
+    "ac": 100,
+    "pp": 20,
+    "category": "Status"
+  },
+  {
+    "name": "BATON PASS",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 40,
+    "category": "Status"
+  },
+  {
+    "name": "BEAT UP",
+    "type": "DRK",
+    "ba": 0,
+    "ac": 100,
+    "pp": 10,
+    "category": "Status"
+  },
+  {
+    "name": "BELLY DRUM",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 10,
+    "category": "Status"
+  },
+  {
+    "name": "BIDE",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 10,
+    "category": "Status"
+  },
+  {
+    "name": "BIND",
+    "type": "NRM",
+    "ba": 15,
+    "ac": 85,
+    "pp": 20,
+    "category": "Physical"
+  },
+  {
+    "name": "BITE",
+    "type": "DRK",
+    "ba": 60,
+    "ac": 100,
+    "pp": 25,
+    "category": "Special"
+  },
+  {
+    "name": "BLIZZARD",
+    "type": "ICE",
+    "ba": 110,
+    "ac": 70,
+    "pp": 5,
+    "category": "Special"
+  },
+  {
+    "name": "BODY SLAM",
+    "type": "NRM",
+    "ba": 85,
+    "ac": 100,
+    "pp": 15,
+    "category": "Physical"
+  },
+  {
+    "name": "BONE CLUB",
+    "type": "GRD",
+    "ba": 65,
+    "ac": 85,
+    "pp": 20,
+    "category": "Physical"
+  },
+  {
+    "name": "BONE RUSH",
+    "type": "GRD",
+    "ba": 25,
+    "ac": 90,
+    "pp": 10,
+    "category": "Physical"
+  },
+  {
+    "name": "BONEMERANG",
+    "type": "GRD",
+    "ba": 50,
+    "ac": 90,
+    "pp": 10,
+    "category": "Physical"
+  },
+  {
+    "name": "BUBBLE",
+    "type": "WTR",
+    "ba": 40,
+    "ac": 100,
+    "pp": 30,
+    "category": "Special"
+  },
+  {
+    "name": "BUBBLE BEAM",
+    "type": "WTR",
+    "ba": 65,
+    "ac": 100,
+    "pp": 20,
+    "category": "Special"
+  },
+  {
+    "name": "CHARM",
+    "type": "FAI",
+    "ba": 0,
+    "ac": 100,
+    "pp": 20,
+    "category": "Status"
+  },
+  {
+    "name": "CLAMP",
+    "type": "WTR",
+    "ba": 35,
+    "ac": 85,
+    "pp": 15,
+    "category": "Special"
+  },
+  {
+    "name": "COMET PUNCH",
+    "type": "NRM",
+    "ba": 18,
+    "ac": 85,
+    "pp": 15,
+    "category": "Physical"
+  },
+  {
+    "name": "CONFUSE RAY",
+    "type": "GHO",
+    "ba": 0,
+    "ac": 100,
+    "pp": 10,
+    "category": "Status"
+  },
+  {
+    "name": "CONFUSION",
+    "type": "PSY",
+    "ba": 50,
+    "ac": 100,
+    "pp": 25,
+    "category": "Special"
+  },
+  {
+    "name": "CONSTRICT",
+    "type": "NRM",
+    "ba": 10,
+    "ac": 100,
+    "pp": 35,
+    "category": "Physical"
+  },
+  {
+    "name": "CONVERSION",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 30,
+    "category": "Status"
+  },
+  {
+    "name": "CONVERSION 2",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 30,
+    "category": "Status"
+  },
+  {
+    "name": "COTTON SPORE",
+    "type": "GRS",
+    "ba": 0,
+    "ac": 100,
+    "pp": 40,
+    "category": "Status"
+  },
+  {
+    "name": "COUNTER",
+    "type": "FTG",
+    "ba": 0,
+    "ac": 100,
+    "pp": 20,
+    "category": "Status"
+  },
+  {
+    "name": "CRABHAMMER",
+    "type": "WTR",
+    "ba": 100,
+    "ac": 90,
+    "pp": 10,
+    "category": "Special"
+  },
+  {
+    "name": "CROSS CHOP",
+    "type": "FTG",
+    "ba": 100,
+    "ac": 80,
+    "pp": 5,
+    "category": "Physical"
+  },
+  {
+    "name": "CRUNCH",
+    "type": "DRK",
+    "ba": 80,
+    "ac": 100,
+    "pp": 15,
+    "category": "Special"
+  },
+  {
+    "name": "CURSE",
+    "type": "GHO",
+    "ba": 0,
+    "ac": 100,
+    "pp": 10,
+    "category": "Status"
+  },
+  {
+    "name": "CUT",
+    "type": "NRM",
+    "ba": 50,
+    "ac": 95,
+    "pp": 30,
+    "category": "Physical"
+  },
+  {
+    "name": "DEFENSE CURL",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 40,
+    "category": "Status"
+  },
+  {
+    "name": "DESTINY BOND",
+    "type": "GHO",
+    "ba": 0,
+    "ac": 100,
+    "pp": 5,
+    "category": "Status"
+  },
+  {
+    "name": "DETECT",
+    "type": "FTG",
+    "ba": 0,
+    "ac": 100,
+    "pp": 5,
+    "category": "Status"
+  },
+  {
+    "name": "DIG",
+    "type": "GRD",
+    "ba": 80,
+    "ac": 100,
+    "pp": 10,
+    "category": "Physical"
+  },
+  {
+    "name": "DISABLE",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 20,
+    "category": "Status"
+  },
+  {
+    "name": "DIZZY PUNCH",
+    "type": "NRM",
+    "ba": 70,
+    "ac": 100,
+    "pp": 10,
+    "category": "Physical"
+  },
+  {
+    "name": "DOUBLE EDGE",
+    "type": "NRM",
+    "ba": 120,
+    "ac": 100,
+    "pp": 15,
+    "category": "Physical"
+  },
+  {
+    "name": "DOUBLE KICK",
+    "type": "FTG",
+    "ba": 30,
+    "ac": 100,
+    "pp": 30,
+    "category": "Physical"
+  },
+  {
+    "name": "DOUBLE SLAP",
+    "type": "NRM",
+    "ba": 15,
+    "ac": 85,
+    "pp": 10,
+    "category": "Physical"
+  },
+  {
+    "name": "DOUBLE TEAM",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 15,
+    "category": "Status"
+  },
+  {
+    "name": "DRAGON BREATH",
+    "type": "DRG",
+    "ba": 60,
+    "ac": 100,
+    "pp": 20,
+    "category": "Special"
+  },
+  {
+    "name": "DRAGON RAGE",
+    "type": "DRG",
+    "ba": 0,
+    "ac": 100,
+    "pp": 10,
+    "category": "Status"
+  },
+  {
+    "name": "DREAM EATER",
+    "type": "PSY",
+    "ba": 100,
+    "ac": 100,
+    "pp": 15,
+    "category": "Special"
+  },
+  {
+    "name": "DRILL PECK",
+    "type": "FLY",
+    "ba": 80,
+    "ac": 100,
+    "pp": 20,
+    "category": "Physical"
+  },
+  {
+    "name": "DYNAMIC PUNCH",
+    "type": "FTG",
+    "ba": 100,
+    "ac": 50,
+    "pp": 5,
+    "category": "Physical"
+  },
+  {
+    "name": "EARTHQUAKE",
+    "type": "GRD",
+    "ba": 100,
+    "ac": 100,
+    "pp": 10,
+    "category": "Physical"
+  },
+  {
+    "name": "EGG BOMB",
+    "type": "NRM",
+    "ba": 100,
+    "ac": 75,
+    "pp": 10,
+    "category": "Physical"
+  },
+  {
+    "name": "EMBER",
+    "type": "FIR",
+    "ba": 40,
+    "ac": 100,
+    "pp": 25,
+    "category": "Special"
+  },
+  {
+    "name": "ENCORE",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 5,
+    "category": "Status"
+  },
+  {
+    "name": "ENDURE",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 10,
+    "category": "Status"
+  },
+  {
+    "name": "EXPLOSION",
+    "type": "NRM",
+    "ba": 250,
+    "ac": 100,
+    "pp": 5,
+    "category": "Physical"
+  },
+  {
+    "name": "EXTREME SPEED",
+    "type": "NRM",
+    "ba": 80,
+    "ac": 100,
+    "pp": 5,
+    "category": "Physical"
+  },
+  {
+    "name": "FALSE SWIPE",
+    "type": "NRM",
+    "ba": 40,
+    "ac": 100,
+    "pp": 40,
+    "category": "Physical"
+  },
+  {
+    "name": "FEINT ATTACK",
+    "type": "DRK",
+    "ba": 60,
+    "ac": 100,
+    "pp": 20,
+    "category": "Special"
+  },
+  {
+    "name": "FIRE BLAST",
+    "type": "FIR",
+    "ba": 110,
+    "ac": 85,
+    "pp": 5,
+    "category": "Special"
+  },
+  {
+    "name": "FIRE PUNCH",
+    "type": "FIR",
+    "ba": 75,
+    "ac": 100,
+    "pp": 15,
+    "category": "Special"
+  },
+  {
+    "name": "FIRE SPIN",
+    "type": "FIR",
+    "ba": 35,
+    "ac": 85,
+    "pp": 15,
+    "category": "Special"
+  },
+  {
+    "name": "FISSURE",
+    "type": "GRD",
+    "ba": 0,
+    "ac": 30,
+    "pp": 5,
+    "category": "Status"
+  },
+  {
+    "name": "FLAIL",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 15,
+    "category": "Status"
+  },
+  {
+    "name": "FLAME WHEEL",
+    "type": "FIR",
+    "ba": 60,
+    "ac": 100,
+    "pp": 25,
+    "category": "Special"
+  },
+  {
+    "name": "FLAMETHROWER",
+    "type": "FIR",
+    "ba": 90,
+    "ac": 100,
+    "pp": 15,
+    "category": "Special"
+  },
+  {
+    "name": "FLASH",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 20,
+    "category": "Status"
+  },
+  {
+    "name": "FLY",
+    "type": "FLY",
+    "ba": 90,
+    "ac": 95,
+    "pp": 15,
+    "category": "Physical"
+  },
+  {
+    "name": "FOCUS ENERGY",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 30,
+    "category": "Status"
+  },
+  {
+    "name": "FORESIGHT",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 40,
+    "category": "Status"
+  },
+  {
+    "name": "FRUSTRATION",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 20,
+    "category": "Status"
+  },
+  {
+    "name": "FURY ATTACK",
+    "type": "NRM",
+    "ba": 15,
+    "ac": 85,
+    "pp": 20,
+    "category": "Physical"
+  },
+  {
+    "name": "FURY CUTTER",
+    "type": "BUG",
+    "ba": 40,
+    "ac": 95,
+    "pp": 20,
+    "category": "Physical"
+  },
+  {
+    "name": "FURY SWIPES",
+    "type": "NRM",
+    "ba": 18,
+    "ac": 80,
+    "pp": 15,
+    "category": "Physical"
+  },
+  {
+    "name": "FUTURE SIGHT",
+    "type": "PSY",
+    "ba": 120,
+    "ac": 100,
+    "pp": 10,
+    "category": "Special"
+  },
+  {
+    "name": "GIGA DRAIN",
+    "type": "GRS",
+    "ba": 75,
+    "ac": 100,
+    "pp": 10,
+    "category": "Special"
+  },
+  {
+    "name": "GLARE",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 30,
+    "category": "Status"
+  },
+  {
+    "name": "GROWL",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 40,
+    "category": "Status"
+  },
+  {
+    "name": "GROWTH",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 20,
+    "category": "Status"
+  },
+  {
+    "name": "GUILLOTINE",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 30,
+    "pp": 5,
+    "category": "Status"
+  },
+  {
+    "name": "GUST",
+    "type": "FLY",
+    "ba": 40,
+    "ac": 100,
+    "pp": 35,
+    "category": "Physical"
+  },
+  {
+    "name": "HARDEN",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 30,
+    "category": "Status"
+  },
+  {
+    "name": "HAZE",
+    "type": "ICE",
+    "ba": 0,
+    "ac": 100,
+    "pp": 30,
+    "category": "Status"
+  },
+  {
+    "name": "HEADBUTT",
+    "type": "NRM",
+    "ba": 70,
+    "ac": 100,
+    "pp": 15,
+    "category": "Physical"
+  },
+  {
+    "name": "HEAL BELL",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 5,
+    "category": "Status"
+  },
+  {
+    "name": "HIDDEN POWER",
+    "type": "NRM",
+    "ba": 60,
+    "ac": 100,
+    "pp": 15,
+    "category": "Physical"
+  },
+  {
+    "name": "HIGH JUMP KICK",
+    "type": "FTG",
+    "ba": 130,
+    "ac": 90,
+    "pp": 10,
+    "category": "Physical"
+  },
+  {
+    "name": "HORN ATTACK",
+    "type": "NRM",
+    "ba": 65,
+    "ac": 100,
+    "pp": 25,
+    "category": "Physical"
+  },
+  {
+    "name": "HORN DRILL",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 30,
+    "pp": 5,
+    "category": "Status"
+  },
+  {
+    "name": "HYDRO PUMP",
+    "type": "WTR",
+    "ba": 110,
+    "ac": 80,
+    "pp": 5,
+    "category": "Special"
+  },
+  {
+    "name": "HYPER BEAM",
+    "type": "NRM",
+    "ba": 150,
+    "ac": 90,
+    "pp": 5,
+    "category": "Physical"
+  },
+  {
+    "name": "HYPER FANG",
+    "type": "NRM",
+    "ba": 80,
+    "ac": 90,
+    "pp": 15,
+    "category": "Physical"
+  },
+  {
+    "name": "HYPNOSIS",
+    "type": "PSY",
+    "ba": 0,
+    "ac": 60,
+    "pp": 20,
+    "category": "Status"
+  },
+  {
+    "name": "ICE BEAM",
+    "type": "ICE",
+    "ba": 90,
+    "ac": 100,
+    "pp": 10,
+    "category": "Special"
+  },
+  {
+    "name": "ICE PUNCH",
+    "type": "ICE",
+    "ba": 75,
+    "ac": 100,
+    "pp": 15,
+    "category": "Special"
+  },
+  {
+    "name": "ICY WIND",
+    "type": "ICE",
+    "ba": 55,
+    "ac": 95,
+    "pp": 15,
+    "category": "Special"
+  },
+  {
+    "name": "IRON TAIL",
+    "type": "STL",
+    "ba": 100,
+    "ac": 75,
+    "pp": 15,
+    "category": "Physical"
+  },
+  {
+    "name": "JUMP KICK",
+    "type": "FTG",
+    "ba": 100,
+    "ac": 95,
+    "pp": 10,
+    "category": "Physical"
+  },
+  {
+    "name": "KARATE CHOP",
+    "type": "FTG",
+    "ba": 50,
+    "ac": 100,
+    "pp": 25,
+    "category": "Physical"
+  },
+  {
+    "name": "KINESIS",
+    "type": "PSY",
+    "ba": 0,
+    "ac": 80,
+    "pp": 15,
+    "category": "Status"
+  },
+  {
+    "name": "LEECH LIFE",
+    "type": "BUG",
+    "ba": 80,
+    "ac": 100,
+    "pp": 10,
+    "category": "Physical"
+  },
+  {
+    "name": "LEECH SEED",
+    "type": "GRS",
+    "ba": 0,
+    "ac": 90,
+    "pp": 10,
+    "category": "Status"
+  },
+  {
+    "name": "LEER",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 30,
+    "category": "Status"
+  },
+  {
+    "name": "LICK",
+    "type": "GHO",
+    "ba": 30,
+    "ac": 100,
+    "pp": 30,
+    "category": "Physical"
+  },
+  {
+    "name": "LIGHT SCREEN",
+    "type": "PSY",
+    "ba": 0,
+    "ac": 100,
+    "pp": 30,
+    "category": "Status"
+  },
+  {
+    "name": "LOCK ON",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 5,
+    "category": "Status"
+  },
+  {
+    "name": "LOVELY KISS",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 75,
+    "pp": 10,
+    "category": "Status"
+  },
+  {
+    "name": "LOW KICK",
+    "type": "FTG",
+    "ba": 0,
+    "ac": 100,
+    "pp": 20,
+    "category": "Status"
+  },
+  {
+    "name": "MACH PUNCH",
+    "type": "FTG",
+    "ba": 40,
+    "ac": 100,
+    "pp": 30,
+    "category": "Physical"
+  },
+  {
+    "name": "MAGNITUDE",
+    "type": "GRD",
+    "ba": 0,
+    "ac": 100,
+    "pp": 30,
+    "category": "Status"
+  },
+  {
+    "name": "MEAN LOOK",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 5,
+    "category": "Status"
+  },
+  {
+    "name": "MEDITATE",
+    "type": "PSY",
+    "ba": 0,
+    "ac": 100,
+    "pp": 40,
+    "category": "Status"
+  },
+  {
+    "name": "MEGA DRAIN",
+    "type": "GRS",
+    "ba": 40,
+    "ac": 100,
+    "pp": 15,
+    "category": "Special"
+  },
+  {
+    "name": "MEGA KICK",
+    "type": "NRM",
+    "ba": 120,
+    "ac": 75,
+    "pp": 5,
+    "category": "Physical"
+  },
+  {
+    "name": "MEGA PUNCH",
+    "type": "NRM",
+    "ba": 80,
+    "ac": 85,
+    "pp": 20,
+    "category": "Physical"
+  },
+  {
+    "name": "MEGAHORN",
+    "type": "BUG",
+    "ba": 120,
+    "ac": 85,
+    "pp": 10,
+    "category": "Physical"
+  },
+  {
+    "name": "METAL CLAW",
+    "type": "STL",
+    "ba": 50,
+    "ac": 95,
+    "pp": 35,
+    "category": "Physical"
+  },
+  {
+    "name": "METRONOME",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 10,
+    "category": "Status"
+  },
+  {
+    "name": "MILK DRINK",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 5,
+    "category": "Status"
+  },
+  {
+    "name": "MIMIC",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 10,
+    "category": "Status"
+  },
+  {
+    "name": "MIND READER",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 5,
+    "category": "Status"
+  },
+  {
+    "name": "MINIMIZE",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 10,
+    "category": "Status"
+  },
+  {
+    "name": "MIRROR COAT",
+    "type": "PSY",
+    "ba": 0,
+    "ac": 100,
+    "pp": 20,
+    "category": "Status"
+  },
+  {
+    "name": "MIRROR MOVE",
+    "type": "FLY",
+    "ba": 0,
+    "ac": 100,
+    "pp": 20,
+    "category": "Status"
+  },
+  {
+    "name": "MIST",
+    "type": "ICE",
+    "ba": 0,
+    "ac": 100,
+    "pp": 30,
+    "category": "Status"
+  },
+  {
+    "name": "MOONLIGHT",
+    "type": "FAI",
+    "ba": 0,
+    "ac": 100,
+    "pp": 5,
+    "category": "Status"
+  },
+  {
+    "name": "MORNING SUN",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 5,
+    "category": "Status"
+  },
+  {
+    "name": "MUD SLAP",
+    "type": "GRD",
+    "ba": 20,
+    "ac": 100,
+    "pp": 10,
+    "category": "Physical"
+  },
+  {
+    "name": "NIGHT SHADE",
+    "type": "GHO",
+    "ba": 0,
+    "ac": 100,
+    "pp": 15,
+    "category": "Status"
+  },
+  {
+    "name": "NIGHTMARE",
+    "type": "GHO",
+    "ba": 0,
+    "ac": 100,
+    "pp": 15,
+    "category": "Status"
+  },
+  {
+    "name": "OCTAZOOKA",
+    "type": "WTR",
+    "ba": 65,
+    "ac": 85,
+    "pp": 10,
+    "category": "Special"
+  },
+  {
+    "name": "OUTRAGE",
+    "type": "DRG",
+    "ba": 120,
+    "ac": 100,
+    "pp": 10,
+    "category": "Special"
+  },
+  {
+    "name": "PAIN SPLIT",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 20,
+    "category": "Status"
+  },
+  {
+    "name": "PAY DAY",
+    "type": "NRM",
+    "ba": 40,
+    "ac": 100,
+    "pp": 20,
+    "category": "Physical"
+  },
+  {
+    "name": "PECK",
+    "type": "FLY",
+    "ba": 35,
+    "ac": 100,
+    "pp": 35,
+    "category": "Physical"
+  },
+  {
+    "name": "PERISH SONG",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 5,
+    "category": "Status"
+  },
+  {
+    "name": "PETAL DANCE",
+    "type": "GRS",
+    "ba": 120,
+    "ac": 100,
+    "pp": 10,
+    "category": "Special"
+  },
+  {
+    "name": "PIN MISSILE",
+    "type": "BUG",
+    "ba": 25,
+    "ac": 95,
+    "pp": 20,
+    "category": "Physical"
+  },
+  {
+    "name": "POISON GAS",
+    "type": "PSN",
+    "ba": 0,
+    "ac": 90,
+    "pp": 40,
+    "category": "Status"
+  },
+  {
+    "name": "POISON POWDER",
+    "type": "PSN",
+    "ba": 0,
+    "ac": 75,
+    "pp": 35,
+    "category": "Status"
+  },
+  {
+    "name": "POISON STING",
+    "type": "PSN",
+    "ba": 15,
+    "ac": 100,
+    "pp": 35,
+    "category": "Physical"
+  },
+  {
+    "name": "POUND",
+    "type": "NRM",
+    "ba": 40,
+    "ac": 100,
+    "pp": 35,
+    "category": "Physical"
+  },
+  {
+    "name": "POWDER SNOW",
+    "type": "ICE",
+    "ba": 40,
+    "ac": 100,
+    "pp": 25,
+    "category": "Special"
+  },
+  {
+    "name": "PRESENT",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 90,
+    "pp": 15,
+    "category": "Status"
+  },
+  {
+    "name": "PROTECT",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 10,
+    "category": "Status"
+  },
+  {
+    "name": "PSYBEAM",
+    "type": "PSY",
+    "ba": 65,
+    "ac": 100,
+    "pp": 20,
+    "category": "Special"
+  },
+  {
+    "name": "PSYCH UP",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 10,
+    "category": "Status"
+  },
+  {
+    "name": "PSYCHIC",
+    "type": "PSY",
+    "ba": 90,
+    "ac": 100,
+    "pp": 10,
+    "category": "Special"
+  },
+  {
+    "name": "PSYWAVE",
+    "type": "PSY",
+    "ba": 0,
+    "ac": 100,
+    "pp": 15,
+    "category": "Status"
+  },
+  {
+    "name": "PURSUIT",
+    "type": "DRK",
+    "ba": 40,
+    "ac": 100,
+    "pp": 20,
+    "category": "Special"
+  },
+  {
+    "name": "QUICK ATTACK",
+    "type": "NRM",
+    "ba": 40,
+    "ac": 100,
+    "pp": 30,
+    "category": "Physical"
+  },
+  {
+    "name": "RAGE",
+    "type": "NRM",
+    "ba": 20,
+    "ac": 100,
+    "pp": 20,
+    "category": "Physical"
+  },
+  {
+    "name": "RAIN DANCE",
+    "type": "WTR",
+    "ba": 0,
+    "ac": 100,
+    "pp": 5,
+    "category": "Status"
+  },
+  {
+    "name": "RAPID SPIN",
+    "type": "NRM",
+    "ba": 50,
+    "ac": 100,
+    "pp": 40,
+    "category": "Physical"
+  },
+  {
+    "name": "RAZOR LEAF",
+    "type": "GRS",
+    "ba": 55,
+    "ac": 95,
+    "pp": 25,
+    "category": "Special"
+  },
+  {
+    "name": "RAZOR WIND",
+    "type": "NRM",
+    "ba": 80,
+    "ac": 100,
+    "pp": 10,
+    "category": "Physical"
+  },
+  {
+    "name": "RECOVER",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 5,
+    "category": "Status"
+  },
+  {
+    "name": "REFLECT",
+    "type": "PSY",
+    "ba": 0,
+    "ac": 100,
+    "pp": 20,
+    "category": "Status"
+  },
+  {
+    "name": "REST",
+    "type": "PSY",
+    "ba": 0,
+    "ac": 100,
+    "pp": 5,
+    "category": "Status"
+  },
+  {
+    "name": "RETURN",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 20,
+    "category": "Status"
+  },
+  {
+    "name": "REVERSAL",
+    "type": "FTG",
+    "ba": 0,
+    "ac": 100,
+    "pp": 15,
+    "category": "Status"
+  },
+  {
+    "name": "ROAR",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 20,
+    "category": "Status"
+  },
+  {
+    "name": "ROCK SLIDE",
+    "type": "RCK",
+    "ba": 75,
+    "ac": 90,
+    "pp": 10,
+    "category": "Physical"
+  },
+  {
+    "name": "ROCK SMASH",
+    "type": "FTG",
+    "ba": 40,
+    "ac": 100,
+    "pp": 15,
+    "category": "Physical"
+  },
+  {
+    "name": "ROCK THROW",
+    "type": "RCK",
+    "ba": 50,
+    "ac": 90,
+    "pp": 15,
+    "category": "Physical"
+  },
+  {
+    "name": "ROLLING KICK",
+    "type": "FTG",
+    "ba": 60,
+    "ac": 85,
+    "pp": 15,
+    "category": "Physical"
+  },
+  {
+    "name": "ROLLOUT",
+    "type": "RCK",
+    "ba": 30,
+    "ac": 90,
+    "pp": 20,
+    "category": "Physical"
+  },
+  {
+    "name": "SACRED FIRE",
+    "type": "FIR",
+    "ba": 100,
+    "ac": 95,
+    "pp": 5,
+    "category": "Special"
+  },
+  {
+    "name": "SAFEGUARD",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 25,
+    "category": "Status"
+  },
+  {
+    "name": "SAND ATTACK",
+    "type": "GRD",
+    "ba": 0,
+    "ac": 100,
+    "pp": 15,
+    "category": "Status"
+  },
+  {
+    "name": "SANDSTORM",
+    "type": "RCK",
+    "ba": 0,
+    "ac": 100,
+    "pp": 10,
+    "category": "Status"
+  },
+  {
+    "name": "SCARY FACE",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 10,
+    "category": "Status"
+  },
+  {
+    "name": "SCRATCH",
+    "type": "NRM",
+    "ba": 40,
+    "ac": 100,
+    "pp": 35,
+    "category": "Physical"
+  },
+  {
+    "name": "SCREECH",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 85,
+    "pp": 40,
+    "category": "Status"
+  },
+  {
+    "name": "SEISMIC TOSS",
+    "type": "FTG",
+    "ba": 0,
+    "ac": 100,
+    "pp": 20,
+    "category": "Status"
+  },
+  {
+    "name": "SELF DESTRUCT",
+    "type": "NRM",
+    "ba": 200,
+    "ac": 100,
+    "pp": 5,
+    "category": "Physical"
+  },
+  {
+    "name": "SHADOW BALL",
+    "type": "GHO",
+    "ba": 80,
+    "ac": 100,
+    "pp": 15,
+    "category": "Physical"
+  },
+  {
+    "name": "SHARPEN",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 30,
+    "category": "Status"
+  },
+  {
+    "name": "SING",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 55,
+    "pp": 15,
+    "category": "Status"
+  },
+  {
+    "name": "SKETCH",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 1,
+    "category": "Status"
+  },
+  {
+    "name": "SKULL BASH",
+    "type": "NRM",
+    "ba": 130,
+    "ac": 100,
+    "pp": 10,
+    "category": "Physical"
+  },
+  {
+    "name": "SKY ATTACK",
+    "type": "FLY",
+    "ba": 140,
+    "ac": 90,
+    "pp": 5,
+    "category": "Physical"
+  },
+  {
+    "name": "SLAM",
+    "type": "NRM",
+    "ba": 80,
+    "ac": 75,
+    "pp": 20,
+    "category": "Physical"
+  },
+  {
+    "name": "SLASH",
+    "type": "NRM",
+    "ba": 70,
+    "ac": 100,
+    "pp": 20,
+    "category": "Physical"
+  },
+  {
+    "name": "SLEEP POWDER",
+    "type": "GRS",
+    "ba": 0,
+    "ac": 75,
+    "pp": 15,
+    "category": "Status"
+  },
+  {
+    "name": "SLEEP TALK",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 10,
+    "category": "Status"
+  },
+  {
+    "name": "SLUDGE",
+    "type": "PSN",
+    "ba": 65,
+    "ac": 100,
+    "pp": 20,
+    "category": "Physical"
+  },
+  {
+    "name": "SLUDGE BOMB",
+    "type": "PSN",
+    "ba": 90,
+    "ac": 100,
+    "pp": 10,
+    "category": "Physical"
+  },
+  {
+    "name": "SMOG",
+    "type": "PSN",
+    "ba": 30,
+    "ac": 70,
+    "pp": 20,
+    "category": "Physical"
+  },
+  {
+    "name": "SMOKESCREEN",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 20,
+    "category": "Status"
+  },
+  {
+    "name": "SNORE",
+    "type": "NRM",
+    "ba": 50,
+    "ac": 100,
+    "pp": 15,
+    "category": "Physical"
+  },
+  {
+    "name": "SOFT BOILED",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 5,
+    "category": "Status"
+  },
+  {
+    "name": "SOLAR BEAM",
+    "type": "GRS",
+    "ba": 120,
+    "ac": 100,
+    "pp": 10,
+    "category": "Special"
+  },
+  {
+    "name": "SONIC BOOM",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 90,
+    "pp": 20,
+    "category": "Status"
+  },
+  {
+    "name": "SPARK",
+    "type": "ELC",
+    "ba": 65,
+    "ac": 100,
+    "pp": 20,
+    "category": "Special"
+  },
+  {
+    "name": "SPIDER WEB",
+    "type": "BUG",
+    "ba": 0,
+    "ac": 100,
+    "pp": 10,
+    "category": "Status"
+  },
+  {
+    "name": "SPIKE CANNON",
+    "type": "NRM",
+    "ba": 20,
+    "ac": 100,
+    "pp": 15,
+    "category": "Physical"
+  },
+  {
+    "name": "SPIKES",
+    "type": "GRD",
+    "ba": 0,
+    "ac": 100,
+    "pp": 20,
+    "category": "Status"
+  },
+  {
+    "name": "SPITE",
+    "type": "GHO",
+    "ba": 0,
+    "ac": 100,
+    "pp": 10,
+    "category": "Status"
+  },
+  {
+    "name": "SPLASH",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 40,
+    "category": "Status"
+  },
+  {
+    "name": "SPORE",
+    "type": "GRS",
+    "ba": 0,
+    "ac": 100,
+    "pp": 15,
+    "category": "Status"
+  },
+  {
+    "name": "STEEL WING",
+    "type": "STL",
+    "ba": 70,
+    "ac": 90,
+    "pp": 25,
+    "category": "Physical"
+  },
+  {
+    "name": "STOMP",
+    "type": "NRM",
+    "ba": 65,
+    "ac": 100,
+    "pp": 20,
+    "category": "Physical"
+  },
+  {
+    "name": "STRENGTH",
+    "type": "NRM",
+    "ba": 80,
+    "ac": 100,
+    "pp": 15,
+    "category": "Physical"
+  },
+  {
+    "name": "STRING SHOT",
+    "type": "BUG",
+    "ba": 0,
+    "ac": 95,
+    "pp": 40,
+    "category": "Status"
+  },
+  {
+    "name": "STUN SPORE",
+    "type": "GRS",
+    "ba": 0,
+    "ac": 75,
+    "pp": 30,
+    "category": "Status"
+  },
+  {
+    "name": "SUBMISSION",
+    "type": "FTG",
+    "ba": 80,
+    "ac": 80,
+    "pp": 20,
+    "category": "Physical"
+  },
+  {
+    "name": "SUBSTITUTE",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 10,
+    "category": "Status"
+  },
+  {
+    "name": "SUNNY DAY",
+    "type": "FIR",
+    "ba": 0,
+    "ac": 100,
+    "pp": 5,
+    "category": "Status"
+  },
+  {
+    "name": "SUPER FANG",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 90,
+    "pp": 10,
+    "category": "Status"
+  },
+  {
+    "name": "SUPERSONIC",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 55,
+    "pp": 20,
+    "category": "Status"
+  },
+  {
+    "name": "SURF",
+    "type": "WTR",
+    "ba": 90,
+    "ac": 100,
+    "pp": 15,
+    "category": "Special"
+  },
+  {
+    "name": "SWAGGER",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 85,
+    "pp": 15,
+    "category": "Status"
+  },
+  {
+    "name": "SWEET KISS",
+    "type": "FAI",
+    "ba": 0,
+    "ac": 75,
+    "pp": 10,
+    "category": "Status"
+  },
+  {
+    "name": "SWEET SCENT",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 20,
+    "category": "Status"
+  },
+  {
+    "name": "SWIFT",
+    "type": "NRM",
+    "ba": 60,
+    "ac": 100,
+    "pp": 20,
+    "category": "Physical"
+  },
+  {
+    "name": "SWORDS DANCE",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 20,
+    "category": "Status"
+  },
+  {
+    "name": "SYNTHESIS",
+    "type": "GRS",
+    "ba": 0,
+    "ac": 100,
+    "pp": 5,
+    "category": "Status"
+  },
+  {
+    "name": "TACKLE",
+    "type": "NRM",
+    "ba": 40,
+    "ac": 100,
+    "pp": 35,
+    "category": "Physical"
+  },
+  {
+    "name": "TAIL WHIP",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 30,
+    "category": "Status"
+  },
+  {
+    "name": "TAKE DOWN",
+    "type": "NRM",
+    "ba": 90,
+    "ac": 85,
+    "pp": 20,
+    "category": "Physical"
+  },
+  {
+    "name": "TELEPORT",
+    "type": "PSY",
+    "ba": 0,
+    "ac": 100,
+    "pp": 20,
+    "category": "Status"
+  },
+  {
+    "name": "THIEF",
+    "type": "DRK",
+    "ba": 60,
+    "ac": 100,
+    "pp": 25,
+    "category": "Special"
+  },
+  {
+    "name": "THRASH",
+    "type": "NRM",
+    "ba": 120,
+    "ac": 100,
+    "pp": 10,
+    "category": "Physical"
+  },
+  {
+    "name": "THUNDER",
+    "type": "ELC",
+    "ba": 110,
+    "ac": 70,
+    "pp": 10,
+    "category": "Special"
+  },
+  {
+    "name": "THUNDER PUNCH",
+    "type": "ELC",
+    "ba": 75,
+    "ac": 100,
+    "pp": 15,
+    "category": "Special"
+  },
+  {
+    "name": "THUNDER SHOCK",
+    "type": "ELC",
+    "ba": 40,
+    "ac": 100,
+    "pp": 30,
+    "category": "Special"
+  },
+  {
+    "name": "THUNDER WAVE",
+    "type": "ELC",
+    "ba": 0,
+    "ac": 90,
+    "pp": 20,
+    "category": "Status"
+  },
+  {
+    "name": "THUNDERBOLT",
+    "type": "ELC",
+    "ba": 90,
+    "ac": 100,
+    "pp": 15,
+    "category": "Special"
+  },
+  {
+    "name": "TOXIC",
+    "type": "PSN",
+    "ba": 0,
+    "ac": 90,
+    "pp": 10,
+    "category": "Status"
+  },
+  {
+    "name": "TRANSFORM",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 10,
+    "category": "Status"
+  },
+  {
+    "name": "TRI ATTACK",
+    "type": "NRM",
+    "ba": 80,
+    "ac": 100,
+    "pp": 10,
+    "category": "Physical"
+  },
+  {
+    "name": "TRIPLE KICK",
+    "type": "FTG",
+    "ba": 10,
+    "ac": 90,
+    "pp": 10,
+    "category": "Physical"
+  },
+  {
+    "name": "TWINEEDLE",
+    "type": "BUG",
+    "ba": 25,
+    "ac": 100,
+    "pp": 20,
+    "category": "Physical"
+  },
+  {
+    "name": "TWISTER",
+    "type": "DRG",
+    "ba": 40,
+    "ac": 100,
+    "pp": 20,
+    "category": "Special"
+  },
+  {
+    "name": "VICE GRIP",
+    "type": "NRM",
+    "ba": 55,
+    "ac": 100,
+    "pp": 30,
+    "category": "Physical"
+  },
+  {
+    "name": "VINE WHIP",
+    "type": "GRS",
+    "ba": 45,
+    "ac": 100,
+    "pp": 25,
+    "category": "Special"
+  },
+  {
+    "name": "VITAL THROW",
+    "type": "FTG",
+    "ba": 70,
+    "ac": 100,
+    "pp": 10,
+    "category": "Physical"
+  },
+  {
+    "name": "WATER GUN",
+    "type": "WTR",
+    "ba": 40,
+    "ac": 100,
+    "pp": 25,
+    "category": "Special"
+  },
+  {
+    "name": "WATERFALL",
+    "type": "WTR",
+    "ba": 80,
+    "ac": 100,
+    "pp": 15,
+    "category": "Special"
+  },
+  {
+    "name": "WHIRLPOOL",
+    "type": "WTR",
+    "ba": 35,
+    "ac": 85,
+    "pp": 15,
+    "category": "Special"
+  },
+  {
+    "name": "WHIRLWIND",
+    "type": "NRM",
+    "ba": 0,
+    "ac": 100,
+    "pp": 20,
+    "category": "Status"
+  },
+  {
+    "name": "WING ATTACK",
+    "type": "FLY",
+    "ba": 60,
+    "ac": 100,
+    "pp": 35,
+    "category": "Physical"
+  },
+  {
+    "name": "WITHDRAW",
+    "type": "WTR",
+    "ba": 0,
+    "ac": 100,
+    "pp": 40,
+    "category": "Status"
+  },
+  {
+    "name": "WRAP",
+    "type": "NRM",
+    "ba": 15,
+    "ac": 90,
+    "pp": 20,
+    "category": "Physical"
+  },
+  {
+    "name": "ZAP CANNON",
+    "type": "ELC",
+    "ba": 120,
+    "ac": 50,
+    "pp": 5,
+    "category": "Special"
+  }
+]

@@ -1,0 +1,18 @@
+# Local Virtual Environments
+venv/
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Environment Secrets
+.env
+
+# Database Data (CRITICAL: prevents permission errors)
+data/
+
+# Logs and IDE files
+server/logs/
+.git/
+.vscode/

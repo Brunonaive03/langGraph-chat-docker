@@ -1,0 +1,75 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# --- Virtual Environments ---
+# Ignores the local development environment
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# --- Environment Variables & Secrets ---
+# Never commit actual keys (Gemini, Ollama, LangSmith)
+.env
+.env.local
+.env.shared
+.env.test
+
+# Explicitly allow the example file for other developers
+!.env.example
+
+# --- Logs & Databases ---
+# Ignores the server/logs/ directory and any local db files
+server/logs/*.log
+*.log
+*.sqlite
+*.db
+data/db
+data/configdb
+
+# --- OS Specific (Linux/Ubuntu/macOS) ---
+# Clean up Linux swap files and system metadata
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
+*.swp
+*.swo
+
+# --- Docker ---
+# If you use local file-based volumes instead of named volumes
+.docker/
+# Avoid committing local data exports that aren't intended as seeds
+data/backup/
+
+# --- IDEs & Editors ---
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
