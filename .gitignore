@@ -41,8 +41,9 @@ venv.bak/
 !.env.example
 
 # --- Logs & Databases ---
-# Ignores the server/logs/ directory and any local db files
+# Ignores the server/logs/ and client/graphs/ directories and any local db files
 server/logs/*.log
+client/graphs/*.md
 *.log
 *.sqlite
 *.db

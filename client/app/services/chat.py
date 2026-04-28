@@ -2,6 +2,8 @@ import asyncio
 from langchain_core.messages import HumanMessage, ToolMessage, SystemMessage
 from ..core.mcp_client import PokedexMCPClient, ClientSession
 from ..core.factory import get_model
+from ..core.langGraph.graph import create_pokedex_graph
+from ..core.utils import save_graph_diagram
 from ..ui.formatter import print_tools_status, print_header, print_user_prompt, print_system_log, print_assistant
 
 async def run_terminal_chat():
@@ -33,7 +35,12 @@ async def run_terminal_chat():
                 # Running input in a separate thread to avoid blocking the event loop
                 user_input = await asyncio.to_thread(input, print_user_prompt())
                 
-                if user_input.lower() in ["quit", "exit", "q"]: 
+                if user_input.lower() in ["quit", "exit", "q"]:
+
+                    success = save_graph_diagram(app)
+                    if success:
+                        print_system_log("Workflow diagram saved") 
+
                     break
                 
                 input_msg = HumanMessage(content=user_input)
