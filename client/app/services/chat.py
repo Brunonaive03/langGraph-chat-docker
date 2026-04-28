@@ -8,27 +8,26 @@ async def run_terminal_chat():
     mcp_helper = PokedexMCPClient()
     model = get_model()
     
-    state = {
+    initial_state = {
         "messages": [
-            SystemMessage(
-                content=(
-                    "You are a Pokemon assistant with access to MCP tools.\n"
-                    "Only call a tool when the user asks for specific Pokemon or Pokemon move data.\n"
-                    "For greetings, introductions, or general conversation, respond directly."
-                )
-            )
-        ]
+            SystemMessage(content="You are a Pokedex assistant. Use tools for Pokemon/move data.")
+        ],
+        "current_pokemon_context": None
     }
-    
+
     async with mcp_helper.get_context() as (read, write):
         async with ClientSession(read, write) as session:
             await session.initialize()
             
+            # Fetch tools from FastMCP server
             tools = await mcp_helper.fetch_tools(session)
             print_tools_status(tools)
-            
-            model_with_tools = model.bind_tools(tools, tool_choice="auto")
+
+            # Initialize Graph
+            app = create_pokedex_graph(model, tools)
             print_header()
+
+            state = initial_state
             
             while True:
                 # Running input in a separate thread to avoid blocking the event loop
@@ -37,20 +36,9 @@ async def run_terminal_chat():
                 if user_input.lower() in ["quit", "exit", "q"]: 
                     break
                 
-                state["messages"].append(HumanMessage(content=user_input))
+                input_msg = HumanMessage(content=user_input)
+                result = await app.ainvoke({"messages": [input_msg]}, config={"configurable": {"thread_id": "1"}})
 
-                response = await model_with_tools.ainvoke(state["messages"])
-                state["messages"].append(response)
-
-                if response.tool_calls:
-                    for tool_call in response.tool_calls:
-                        print_system_log(f"Accessing Pokedex: {tool_call['name']}")
-                        tool = next(t for t in tools if t.name == tool_call["name"])
-                        result = await tool.ainvoke(tool_call["args"])
-                        state["messages"].append(ToolMessage(content=str(result), tool_call_id=tool_call["id"]))
-                    
-                    final_response = await model_with_tools.ainvoke(state["messages"])
-                    print_assistant(final_response)
-                    state["messages"].append(final_response)
-                else:
-                    print_assistant(response)
+                # Update local state and display only the final response
+                state = result
+                print_assistant(state["messages"][-1])
